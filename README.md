@@ -1,8 +1,8 @@
 #U.S. Incarceration
 
-#Setup
+##Setup
 
-To get github pages setup, follow instructions here: https://help.github.com/articles/using-jekyll-with-pages/
+To setup Jekyll for Github pages, follow the instructions here: https://help.github.com/articles/using-jekyll-with-pages/
 
 ##LiveReload Setup
 
