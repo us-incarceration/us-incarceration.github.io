@@ -4,7 +4,6 @@ html {
 }
 
 body {
-  padding-top: 50px;
   margin-bottom: 30px;
   background-color: #F2F2F2;
 }
@@ -13,9 +12,34 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
-
 p, div {
     font-family: 'Source Sans Pro', sans-serif;
+}
+
+nav {
+  background-color: #858585;
+  border-color: #ffb400;
+  height: 40px;
+  padding-top: 10px;
+}
+
+nav > div > a {
+  text-decoration: none;
+  color: #f2f0ef;
+}
+nav > div > a:visited {
+  text-decoration: none;
+  color: #f2f0ef;
+}
+
+nav > div > a:hover {
+  text-decoration: none;
+  color: #FFAF5E;
+}
+
+nav > div > a:active {
+  text-decoration: none;
+  color: #FF8000;
 }
 
 .content-container {
