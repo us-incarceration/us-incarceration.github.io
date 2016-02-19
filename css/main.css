@@ -5,7 +5,7 @@ html {
 
 body {
   margin-bottom: 30px;
-  background-color: #F2F2F2;
+  /* background-color: #F2F2F2; */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -18,7 +18,7 @@ p, div {
 
 nav {
   background-color: #858585;
-  border-bottom: 2px solid #ffb400;
+  border-bottom: 1px solid #ffb400;
   height: 40px;
   padding-top: 7px;
 }
@@ -51,8 +51,19 @@ nav > div > a.brand {
   padding: 15px 15px;
 }
 
+li > a {
+    text-decoration: none;
+    color: black;
+}
+
+li > a:hover {
+    text-decoration: none;
+    color: black;
+    background-color: #FFEDC0
+}
+
 .footer {
-  background-color: #D5D5D5;
+  background-color: #FFEDC0;
   position: absolute;
   bottom: 0;
   width: 100%;
