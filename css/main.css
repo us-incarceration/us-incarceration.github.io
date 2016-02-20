@@ -16,6 +16,29 @@ p, div {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+h1 { font-size: 30px; line-height: 36px; }
+h2 { font-size: 24px; line-height: 30px; }
+h3 { font-size: 18px; line-height: 20px; }
+h4 { font-size: 14px; line-height: 20px; }
+h5 { font-size: 12px; line-height: 20px; }
+h6 { font-size: 10px; line-height: 20px; }
+
+.content-container {
+  padding: 15px 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+    background-color: #FFEDC0
+}
+
+
 nav {
   background-color: #858585;
   border-bottom: 1px solid #ffb400;
@@ -26,40 +49,29 @@ nav {
 nav > div > a {
   text-decoration: none;
   color: #f2f0ef;
+  background-color: #858585
 }
 
 nav > div > a:visited {
   text-decoration: none;
   color: #f2f0ef;
+  background-color: #858585
 }
 
 nav > div > a:hover {
   text-decoration: none;
   color: #FFAF5E;
+  background-color: #858585
 }
 
 nav > div > a:active {
   text-decoration: none;
   color: #FF8000;
+  background-color: #858585
 }
 
 nav > div > a.brand {
   font-size: 120%;
-}
-
-.content-container {
-  padding: 15px 15px;
-}
-
-li > a {
-    text-decoration: none;
-    color: black;
-}
-
-li > a:hover {
-    text-decoration: none;
-    color: black;
-    background-color: #FFEDC0
 }
 
 .footer {
