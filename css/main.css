@@ -10,6 +10,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Source Sans Pro', sans-serif;
+    border-bottom: 1px solid #D4D3D3;
 }
 
 p, div {
@@ -72,6 +73,16 @@ nav > div > a:active {
 
 nav > div > a.brand {
   font-size: 120%;
+}
+
+.chart_source {
+  margin-bottom: 5px;  
+  line-height: 10px;
+}
+
+p.chart_source > a {
+  color: #818181;
+  font-size: 70%;
 }
 
 .footer {
