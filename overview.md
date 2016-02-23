@@ -3,13 +3,15 @@ layout: default
 title: Current State of Correctional System in the U.S.
 ---
 
-# Current State of Incarceration in the U.S.
+# Incarceration in the U.S.
 
-## Scale of the U.S. Correctional System
+## Current State of Incarceration in the U.S.
+
+### Scale of the U.S. Correctional System
 
 [The Unites States correctional systems supervised an estimated **6.9 million** adults as of yearend 2014, representing 2.8% of the adult population. 2.2 million of these persons were incarcerated in state or federal prisons or held in local jails, while 4.7 million were under community supervision (i.e. probation or parole).](/sources#CPUS)
 
-## Global Comparison
+### Global Comparison
 
 [The U.S. incarcerates 698 out of every 100,000 people in its general population. This represents the highest incarceration rate of any country in the world, other than the tiny archipelago of Seychelles. Countries with comparable social and economic development typically incarcerate much lower proportions of their populations. For example, Western European countries have an average incarceration rate of 90, per 100,000 people in their general populations. ](/sources#WPPL)
 
@@ -20,10 +22,14 @@ title: Current State of Correctional System in the U.S.
   labels="['United States of America', 'Turkmenistan', 'Russian Federation', 'Rwanda', 'Iran', 'Mexico', 'Saudi Arabia', 'Argentina', 'Australia', 'United Kingdom: England & Wales', 'China', 'Canada', 'France', 'Germany', 'Sweden', 'Japan', 'India', 'Liechtenstein']"
   data="[{y: 698, color: '#7401DF'}, 583, 447, 434, 287, 212, 161, 160, 152, 147, 119, 106, 100, 76, 55, 48, 33, 21]"></div> 	
 
-  [Roy Walmsley. World Prison Population List. eleventh edition. Feb. 2, 2016 Institute for Criminal Policy Research. http://www.prisonstudies.org/sites/default/files/resources/downloads/world_prison_population_list_11th_edition.pdf](/sources#WPPL)
-  {: .chart_source}
+[Roy Walmsley. World Prison Population List. eleventh edition. Feb. 2, 2016 Institute for Criminal Policy Research. http://www.prisonstudies.org/sites/default/files/resources/downloads/world_prison_population_list_11th_edition.pdf](/sources#WPPL)
+{: .chart_source}
 
 ## History of Mass Incarceration
+
+[There is no truth to the notion that the War on Drugs was launched in response to crack cocaine. President Ronald Reagan officially announced the current drug war in 1982, before crack became an issue in the media or a crisis in poor black neighborhoods. A few years after the drug war was declared, crack began to spread rapidly in the poor black neighborhoods of Los Angeles and later emerged in cities across the country.2 The Reagan administration hired staff to publicize the emergence of crack cocaine in 1985 as part of a strategic effort to build public and legislative support for the war.](/sources#NJC)
+
+[In fact, the War on Drugs began at a time when illegal drug use was on the decline.](/sources#NJC)
 
 <div id="fed_state_prisoners_1925_2014"
   style="min-width: 310px; height: 400px; margin: 0 auto"
@@ -36,7 +42,29 @@ title: Current State of Correctional System in the U.S.
 [Prisoners under the jurisdiction of state or federal correctional authorities, December 31, 1978-2014. Bureau of Justice Statistics. Generated on Feb 21, 2016 using the Corrections Statistical Analysis Tool at www.bjs.gov.](/sources#P78_14)
 {: .chart_source}
 
+### What was the impetus for Mass Incarceration?
+
+Mass incarceration was a distinct response by lawmakers and the public to:
+
+[Social tumult of the 1960s](/sources#WCTCD)
+
+[Increasing crime rate of the 1970s and 1980s](/sources#WCTCD)
+
+## Racial Dimension of Mass Incarceration
+
+[At current rates, one in three black males can expect to spend time behind bars.](/sources#WCTCD)
+
+[The United States imprisons a larger percentage of its black population than South Africa did at the height of apartheid.](/sources#NJC)
+
+[In the era of colorblindness, it is no longer socially permissible to use race, explicitly, as a justification for discrimination, exclusion, and social contempt. Rather than rely on race, we use our criminal justice system to label people of color “criminals.” Today it is perfectly legal to discriminate against criminals in nearly all the ways that it was once legal to discriminate against African Americans. Once you’re labeled a felon, the old forms of discrimination—employment discrimination, housing discrimination, denial of the right to vote, denial of educational opportunity, denial of food stamps and other public benefits, and exclusion from jury service—are suddenly legal.](/sources#NJC)
+
 ## Impact of Racial Bias on Incarceration
+
+[Studies show that people of all colors use and sell illegal drugs at remarkably similar rates](/sources#NJC)
+
+## Societal Impact of Mass Incarceration
+
+[Prisons and jails costs more than $80 billion annually.](/sources#WCTCD)
 
 ## Impediments to Reform
 
@@ -45,3 +73,5 @@ title: Current State of Correctional System in the U.S.
 ### Criminal Disenfranchisement
 
 ### Private Prisons
+
+[Approximately 129,000 people were held in privately managed correctional facilities in the United States as of December 31, 2009. 16.4 percent of federal and 6.8 percent of state populations were held in private facilities](/sources#GTS)
