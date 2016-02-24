@@ -25,11 +25,27 @@ title: Current State of Correctional System in the U.S.
 [Roy Walmsley. World Prison Population List. eleventh edition. Feb. 2, 2016 Institute for Criminal Policy Research. http://www.prisonstudies.org/sites/default/files/resources/downloads/world_prison_population_list_11th_edition.pdf](/sources#WPPL)
 {: .chart_source}
 
+## Purpose of Incarceration
+
+[Sociologists have frequently observed that governments use punishment primarily as a tool of social control, and thus the extent or severity of punishment is often unrelated to actual crime patterns.](/sources#WPPL)
+
 ## History of Mass Incarceration
 
-[There is no truth to the notion that the War on Drugs was launched in response to crack cocaine. President Ronald Reagan officially announced the current drug war in 1982, before crack became an issue in the media or a crisis in poor black neighborhoods. A few years after the drug war was declared, crack began to spread rapidly in the poor black neighborhoods of Los Angeles and later emerged in cities across the country.2 The Reagan administration hired staff to publicize the emergence of crack cocaine in 1985 as part of a strategic effort to build public and legislative support for the war.](/sources#NJC)
+Mass incarceration was a distinct response by lawmakers and the public to:
+
+* [Social tumult of the 1960s](/sources#WCTCD)
+
+* [Increasing crime rate of the 1970s and 1980s](/sources#WCTCD) 
+
+### War on Drugs
+
+#### Precursor, Not Response, to Crack Epidemic
+
+[President Ronald Reagan officially announced the current drug war in 1982, before crack became an issue in the media or a crisis in poor black neighborhoods.](/sources#NJC)
 
 [In fact, the War on Drugs began at a time when illegal drug use was on the decline.](/sources#NJC)
+
+[A few years after the drug war was declared, crack began to spread rapidly in the poor black neighborhoods of Los Angeles and later emerged in cities across the country. The Reagan administration hired staff to publicize the emergence of crack cocaine in 1985 as part of a strategic effort to build public and legislative support for the war.](/sources#NJC)
 
 <div id="fed_state_prisoners_1925_2014"
   style="min-width: 310px; height: 400px; margin: 0 auto"
@@ -42,27 +58,25 @@ title: Current State of Correctional System in the U.S.
 [Prisoners under the jurisdiction of state or federal correctional authorities, December 31, 1978-2014. Bureau of Justice Statistics. Generated on Feb 21, 2016 using the Corrections Statistical Analysis Tool at www.bjs.gov.](/sources#P78_14)
 {: .chart_source}
 
-### What was the impetus for Mass Incarceration?
-
-Mass incarceration was a distinct response by lawmakers and the public to:
-
-[Social tumult of the 1960s](/sources#WCTCD)
-
-[Increasing crime rate of the 1970s and 1980s](/sources#WCTCD)
-
 ## Racial Dimension of Mass Incarceration
 
-[At current rates, one in three black males can expect to spend time behind bars.](/sources#WCTCD)
+[At current rates, one in three black males can expect to spend time behind bars.](/sources#WCTCD) [The United States imprisons a larger percentage of its black population than South Africa did at the height of apartheid.](/sources#NJC)
 
-[The United States imprisons a larger percentage of its black population than South Africa did at the height of apartheid.](/sources#NJC)
+[These stark racial disparities cannot be explained by rates of drug crime. Studies show that people of all colors use and sell illegal drugs at remarkably similar rates.10 If there are significant differences in the surveys to be found, they frequently suggest that whites, particularly white youth, are more likely to engage in drug crime than people of color.11 That is not what one would guess, however, when entering our nation’s prisons and jails, which are overflowing with black and brown drug offenders. In some states, black men have been admitted to prison on drug charges at rates twenty to fifty times greater than those of white men](/sources#NJC)
 
 [In the era of colorblindness, it is no longer socially permissible to use race, explicitly, as a justification for discrimination, exclusion, and social contempt. Rather than rely on race, we use our criminal justice system to label people of color “criminals.” Today it is perfectly legal to discriminate against criminals in nearly all the ways that it was once legal to discriminate against African Americans. Once you’re labeled a felon, the old forms of discrimination—employment discrimination, housing discrimination, denial of the right to vote, denial of educational opportunity, denial of food stamps and other public benefits, and exclusion from jury service—are suddenly legal.](/sources#NJC)
 
-## Impact of Racial Bias on Incarceration
-
-[Studies show that people of all colors use and sell illegal drugs at remarkably similar rates](/sources#NJC)
+### Impact of Racial Bias on Incarceration
 
 ## Societal Impact of Mass Incarceration
+
+### Impact on Crime Reduction
+
+[National Advisory Commission on Criminal Justice Standards and Goals, which issued a recommendation in 1973 that “no new institutions for adults should be built and existing institutions for juveniles should be closed.” This recommendation was based on their finding that “the prison, the reformatory and the jail have achieved only a shocking record of failure. There is overwhelming evidence that these institutions create crime rather than prevent it.”](/sources#NJC)
+
+### Burden on Society
+
+### Burden on Economy 
 
 [Prisons and jails costs more than $80 billion annually.](/sources#WCTCD)
 
