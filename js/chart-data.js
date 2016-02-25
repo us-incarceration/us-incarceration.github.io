@@ -15,7 +15,7 @@ $(function () {
     var data_input = eval("(" + $("#prisoner_rate_by_country").attr("data") + ")");
     var labels_input = eval("(" + $("#prisoner_rate_by_country").attr("labels") + ")");
     var title_input = $("#prisoner_rate_by_country").attr("title");
-    var subtitle_input = $("prisoner_rate_by_country").attr("subtitle");
+    var subtitle_input = $("#prisoner_rate_by_country").attr("subtitle");
     var credits_input = $("#prisoner_rate_by_country").attr("credits");
     $('#prisoner_rate_by_country').highcharts({
         chart: {
@@ -51,7 +51,7 @@ $(function () {
                 color: '#FF6200',
                 value: '90',
                 width: '2',
-                zIndex: 1000,
+                zIndex: 1,
                 label: {
                     text: 'Western European Avg.: 90',
                     verticalAlign: 'bottom',

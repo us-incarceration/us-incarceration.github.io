@@ -29,6 +29,10 @@ title: Current State of Correctional System in the U.S.
 
 [Sociologists have frequently observed that governments use punishment primarily as a tool of social control, and thus the extent or severity of punishment is often unrelated to actual crime patterns.](/sources#WPPL)
 
+### Attitudes towards Incarceration Prior to Mass Incarceration
+
+[This is an astonishing development, especially given that as recently as the mid-1970s, the most well-respected criminologists were predicting that the prison system would soon fade away. The growing consensus among experts was perhaps best reflected by the National Advisory Commission on Criminal Justice Standards and Goals, which issued a recommendation in 1973 that “no new institutions for adults should be built and existing institutions for juveniles should be closed.”17 This recommendation was based on their finding that “the prison, the reformatory and the jail have achieved only a shocking record of failure. There is overwhelming evidence that these institutions create crime rather than prevent it.”](/sources#NJC)
+
 ## History of Mass Incarceration
 
 Mass incarceration was a distinct response by lawmakers and the public to:
