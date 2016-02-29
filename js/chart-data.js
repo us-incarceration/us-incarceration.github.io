@@ -51,7 +51,7 @@ $(function () {
                 color: '#FF6200',
                 value: '90',
                 width: '2',
-                zIndex: 1,
+                zIndex: 100,
                 label: {
                     text: 'Western European Avg.: 90',
                     verticalAlign: 'bottom',

@@ -39,7 +39,7 @@ Mass incarceration was a distinct response by lawmakers and the public to:
 
 * [Social tumult of the 1960s](/sources#WCTCD)
 
-* [Increasing crime rate of the 1970s and 1980s](/sources#WCTCD) 
+* [Increasing crime rate of the 1970s and 1980s](/sources#WCTCD)
 
 ### War on Drugs
 
@@ -80,16 +80,28 @@ Mass incarceration was a distinct response by lawmakers and the public to:
 
 ### Burden on Society
 
-### Burden on Economy 
+### Burden on Economy
 
 [Prisons and jails costs more than $80 billion annually.](/sources#WCTCD)
 
-## Impediments to Reform
+## Reform Efforts
 
-### Higher Court Interpretations of Racial Bias
+### Relevant Legal Rights Preventing Racial Bias in Policing
 
-### Criminal Disenfranchisement
+#### The Fourth Amendment: Unreasonable Search and Seizure
 
-### Private Prisons
+The Fourth Amendment states "[t]he right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated."
+
+**Terry v. Ohio** - [the Supreme Court found that reasonable, articulable suspicion was sufficient grounds for a police officer to briefly stop and question a citizen. Such suspicion must not be based on the officer’s “inchoate and unparticularized suspicion or ‘hunch,’ but on the specific reasonable inferences which he is entitled to draw from the facts in light of his experience.” Terry employed a “totality of circumstances” test to determine the reasonableness of police investigatory stops.](/sources#RPLCI)
+
+### Impediments to Reform
+
+#### Higher Court Interpretations of Racial Bias
+
+
+
+#### Criminal Disenfranchisement
+
+#### Private Prisons
 
 [Approximately 129,000 people were held in privately managed correctional facilities in the United States as of December 31, 2009. 16.4 percent of federal and 6.8 percent of state populations were held in private facilities](/sources#GTS)
