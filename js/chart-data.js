@@ -5,7 +5,7 @@ $(function () {
       },
       chart: {
           style: {
-              fontFamily: "'Source Sans Pro', sans-serif"
+              fontFamily: "'Lato', sans-serif"
           },
           backgroundColor:'transparent',
       },
