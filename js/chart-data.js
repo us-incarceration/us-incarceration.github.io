@@ -7,6 +7,7 @@ $(function () {
           style: {
               fontFamily: "'Source Sans Pro', sans-serif"
           },
+          backgroundColor:'transparent',
       },
       colors: ['#7401DF', '#666666', '#998866', '#556655'],
       credits: { enabled: false }
