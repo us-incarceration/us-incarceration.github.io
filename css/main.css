@@ -5,7 +5,7 @@ html {
 
 body {
   margin-bottom: 30px;
-  background-color: #f2f2f2;
+  /* background-color: #f2f2f2; */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -44,6 +44,9 @@ nav {
   border-bottom: 2px solid #FF9300;
   height: 40px;
   padding-top: 7px;
+  -webkit-box-shadow: 0px -2px 11px 3px rgba(148,148,148,1);
+-moz-box-shadow: 0px -2px 11px 3px rgba(148,148,148,1);
+box-shadow: 0px -2px 11px 3px rgba(148,148,148,1);
 }
 
 .logo {
@@ -58,6 +61,11 @@ nav {
 p.chart_source > a {
   color: #818181;
   font-size: 70%;
+}
+
+blockquote {
+    font-size: 100%;
+    font-style: italic;
 }
 
 .footer {

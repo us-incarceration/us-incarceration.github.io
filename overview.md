@@ -86,27 +86,11 @@ Mass incarceration was a distinct response by lawmakers and the public to:
 
 ## Reform Efforts
 
-### Relevant Legal Rights Preventing Racial Bias in Policing
-
-#### The Fourth Amendment: Unreasonable Search and Seizure
-
-The Fourth Amendment states "[t]he right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated."
-
-**Terry v. Ohio** - [the Supreme Court found that reasonable, articulable suspicion was sufficient grounds for a police officer to briefly stop and question a citizen. Such suspicion must not be based on the officer’s “inchoate and unparticularized suspicion or ‘hunch,’ but on the specific reasonable inferences which he is entitled to draw from the facts in light of his experience.” Terry employed a “totality of circumstances” test to determine the reasonableness of police investigatory stops.](/sources#RPLCI)
-
-**United States v. Brignoni-Ponce** - [addressed the issue of race as a factor giving rise to reasonable suspicion of criminal activity. “In this case the officers relied on a single factor to justify stopping respondent’s car: the apparent Mexican ancestry of the occupants.” Neither this single factor nor the police officer’s belief that the occupants were illegal aliens satisfied the constitutional minimum for an investigatory stop. The Court conceded “[t]he likelihood that any given person of Mexican ancestry is an alien is high enough to make Mexican appearance a relevant factor.” By itself, however, that factor did not support reasonable suspicion necessary for a roving stop. The Court proposed a multi-factored analysis: “Officers may consider the characteristics of the area ... ; usual patterns of traffic on the particular road, and previous experience with alien traffic.” Additionally, erratic behavior and evasive acts by those under the observation of the police officer, as well as aspects of the motor vehicle, may support the reasonable suspicion necessary for an investigatory stop.](/sources#RPLCI)
-
-**United States v. Martin-Fuerte** - [Subsequent courts, however, have upheld stops of persons that were partially based on race. Border patrol agents in United States v. Martin-Fuerte referred motorists selectively to a secondary inspection area on the basis of several factors, including Mexican ancestry. Of 820 vehicles referred for secondary inspection over the period in question, roughly 20% included illegal aliens. On this basis, the Court determined that “to the extent that the Border Patrol relies on apparent Mexican ancestry at this checkpoint, ... that reliance clearly is relevant to the law enforcement need to be served.” Indeed, according to the majority, “even if it be assumed that such referrals are made largely on the basis of apparent Mexican ancestry, we perceive no constitutional problem.” But the Court cautioned against extending the logic of border enforcement cases to situations remote from the border, where the government interest in immigration policing may be less compelling. Thus, a different conclusion might pertain “if, for example, reliance were put on apparent Mexican ancestry at a checkpoint operated near the Canadian border.”](/sources#RPLCI)
-
-**United States v. Weaver** - [affirmed the conviction of a black drug courier suspect who was stopped at the Kansas City Airport based, in part, on information that “a number of young roughly dressed black males from street gangs in Los Angeles frequently brought cocaine into the Kansas City area.” The court ruled that federal drug enforcement agents can rely on racial characteristics if objective crime trend analysis validates use of these characteristics as “risk factors” in predicting criminal behavior.](/sources#RPLCI)
-
-**United States v. Montero-Camargo** - [The U.S. Court of Appeals for the Ninth Circuit, however, has determined that it is impermissible to take Hispanic origin into account in stops in Southern California. In United States v. Montero-Camargo, the appeals court noted both significant “demographic changes” and “changes in the law restricting the use of race as a criterion in government decision-making” as reasons for precluding any consideration of race. The likelihood that in an area in which the majority—or even a substantial part—of the population is Hispanic, any given person of Hispanic ancestry is in fact an alien, let alone an illegal alien, is not high enough to make Hispanic appearance a relevant factor in the reasonable suspicion calculus.... [F]actors that have such a low probative value that no reasonable officer would have relied on them to make an investigative stop must be disregarded as a matter of law. The Supreme Court’s contrary dicta in Brignoni-Ponce that ethnic appearance could be relevant was distinguished as relying “on now-outdated demographic information.”](/sources#RPLCI)
-
 ### Impediments to Reform
 
 #### Higher Court Interpretations of Racial Bias
 
-See "Relevant Legal Rights Preventing Racial Bias in Policing" section
+[See legal challenges overview](/legal)
 
 #### Criminal Disenfranchisement
 
